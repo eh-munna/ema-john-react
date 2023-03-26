@@ -1,0 +1,7 @@
+/* shop-container-style */
+
+.shop-container {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  column-gap: 10px;
+}
