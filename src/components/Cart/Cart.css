@@ -1,0 +1,9 @@
+.cart {
+  background: rgba(255, 153, 0, 0.3);
+  padding: 15px;
+}
+
+.cart p {
+  font-size: 1rem;
+  margin: 10px 0;
+}
